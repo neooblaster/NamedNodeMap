@@ -1,1 +1,3 @@
-# NamedNodeMap.find(String Pattern) && NamedNodeMap.findAll(String Pattern)
+# NamedNodeMap.find(String Pattern)
+
+# NamedNodeMap.findAll(String Pattern)
